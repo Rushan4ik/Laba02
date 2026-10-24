@@ -1,0 +1,6 @@
+timestamp,level,source,message
+2023-10-24T10:00:00+00:00,DEBUG,auth-service,User login attempt
+2023-10-24T10:01:00+00:00,INFO,api-gateway,Request processed successfully
+2023-10-24T10:02:00+00:00,WARNING,db-pool,Connection pool running low
+2023-10-24T10:03:00+00:00,ERROR,payment-service,Transaction failed: timeout
+2023-10-24T10:04:00+00:00,CRITICAL,auth-service,Database connection lost

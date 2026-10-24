@@ -1,0 +1,6 @@
+{"timestamp": "2023-10-24T12:00:00Z", "level": "INFO", "source": "mix-test", "message": "Start of mixed file"}
+{bad json here
+{"timestamp": "2023-10-24T12:01:00Z", "level": "UNKNOWN_LEVEL", "source": "mix-test", "message": "Bad level"}
+
+{"timestamp": "2023-10-24T12:02:00Z", "level": "ERROR", "source": "", "message": "Empty source"}
+{"timestamp": "2023-10-24T12:03:00Z", "level": "INFO", "source": "mix-test", "message": "End of mixed file"}

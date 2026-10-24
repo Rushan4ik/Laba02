@@ -1,0 +1,5 @@
+timestamp,level,source,message
+2023-10-24T12:00:00Z,INFO,mix-test,Start of mixed file
+2023-10-24T12:01:00Z,UNKNOWN_LEVEL,mix-test,Bad level
+2023-10-24T12:02:00Z,ERROR,,Empty source
+2023-10-24T12:03:00Z,INFO,mix-test,End of mixed file

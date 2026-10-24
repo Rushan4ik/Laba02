@@ -1,0 +1,5 @@
+{"timestamp": "2023-10-24T10:00:00+00:00", "level": "DEBUG", "source": "auth-service", "message": "User login attempt"}
+{"timestamp": "2023-10-24T10:01:00+00:00", "level": "INFO", "source": "api-gateway", "message": "Request processed successfully"}
+{"timestamp": "2023-10-24T10:02:00+00:00", "level": "WARNING", "source": "db-pool", "message": "Connection pool running low"}
+{"timestamp": "2023-10-24T10:03:00+00:00", "level": "ERROR", "source": "payment-service", "message": "Transaction failed: timeout"}
+{"timestamp": "2023-10-24T10:04:00+00:00", "level": "CRITICAL", "source": "auth-service", "message": "Database connection lost"}

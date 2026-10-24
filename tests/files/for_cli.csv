@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-01-01T10:00:00Z,INFO,сервис-Ёж,ok
+2026-01-01T10:10:00Z,UNKNOWN,api,x
+2026-01-01T10:20:00Z,ERROR,db,fail
